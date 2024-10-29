@@ -1,0 +1,20 @@
+{
+  "name": "a_music_backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhilguntur2801/A_MUSIC_FULLSTACK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhilguntur2801/A_MUSIC_FULLSTACK/issues"
+  },
+  "homepage": "https://github.com/Akhilguntur2801/A_MUSIC_FULLSTACK#readme",
+  "description": ""
+}
